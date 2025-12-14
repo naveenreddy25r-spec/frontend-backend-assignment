@@ -1,4 +1,4 @@
-# Frontend Developer Intern Assignment
+
 
 This project is a full-stack web application developed as part of a Frontend Developer Intern assignment.  
 It demonstrates frontend–backend integration, authentication, protected routes, and CRUD operations.
